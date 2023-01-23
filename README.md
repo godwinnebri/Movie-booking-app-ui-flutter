@@ -16,6 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # Movie-booking-app-ui-flutter
 
-![Simulator Screen Shot - iPhone 14 Pro Max - 2022-10-22 at 23 03 30](https://user-images.githubusercontent.com/104990430/214057801-a6e7ad8e-4769-4b1b-8f32-1aaa58e87cc2.png)
+<img width="393" alt="Home" src="https://user-images.githubusercontent.com/104990430/214059585-80d97391-a5d6-470c-9c20-94051973a78d.png">
 
-![Simulator Screen Shot - iPhone 14 Pro Max - 2022-10-22 at 23 08 52](https://user-images.githubusercontent.com/104990430/214057821-c35caf52-8656-421d-9814-187366809bf6.png)
+<img width="393" alt="Detail" src="https://user-images.githubusercontent.com/104990430/214059603-0f505e73-b6a5-42f4-82cf-1b5b8cde9c9e.png">
+
